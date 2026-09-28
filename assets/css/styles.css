@@ -414,11 +414,8 @@ img {
   
   background-image:url(../img/Portfolio.png);
   background-size: cover;
-  object-fit: contain;
   background-position: center;
   background-repeat: no-repeat;
-  width: 100%;
-  height:100%;
 }
 
 /* .home__img {
